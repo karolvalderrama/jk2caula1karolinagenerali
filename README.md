@@ -1,5 +1,3 @@
 # jk2caula1karolinagenerali
 
-[Protótipo - HTML e CSS_ usando a criatividade para criar o seu site (Community).pdf](https://github.com/karolvalderrama/jk2caula1karolinagenerali/files/11052524/Prototipo.-.HTML.e.CSS_.usando.a.criatividade.para.criar.o.seu.site.Community.pdf)
-
-
+![trabalho github](https://user-images.githubusercontent.com/110204878/227249698-ded3ea27-3856-4333-bfae-9fb30c697201.png)
